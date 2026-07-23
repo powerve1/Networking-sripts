@@ -1,0 +1,793 @@
+>>>>>Allura>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Aqua>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Bliss>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Breakaway>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Dawn>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Discovery-LAB>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>ESCAPE-Fortigate-FW01-NEW>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Encore>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Epic>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Escape>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Explorer>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>GSC>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config firewall address
+    edit "BLOCK_FQDN-file.kiwi"
+        set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+        set type fqdn
+        set comment "SCTASK2033450"
+        set fqdn "file.kiwi"
+    next
+end
+config firewall addrgrp
+    edit "Global_Blocked_Sites_01_ModifyThisOne"
+        set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+    next
+end
+
+===============================================
+>>>>>Gem>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Getaway>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Grandeur>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Insignia>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config firewall address
+    edit "BLOCK_FQDN-file.kiwi"
+        set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+        set type fqdn
+        set comment "SCTASK2033450"
+        set fqdn "file.kiwi"
+    next
+end
+config firewall addrgrp
+    edit "Global_Blocked_Sites_01_ModifyThisOne"
+        set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+    next
+end
+
+===============================================
+>>>>>Jade>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Jewel>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Joy>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Luna>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Marina>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config firewall address
+    edit "BLOCK_FQDN-file.kiwi"
+        set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+        set type fqdn
+        set comment "SCTASK2033450"
+        set fqdn "file.kiwi"
+    next
+end
+config firewall addrgrp
+    edit "Global_Blocked_Sites_01_ModifyThisOne"
+        set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+    next
+end
+
+===============================================
+>>>>>Marina-Fortigate-FW01-NEW>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Mariner>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config firewall address
+    edit "BLOCK_FQDN-file.kiwi"
+        set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+        set type fqdn
+        set comment "SCTASK2033450"
+        set fqdn "file.kiwi"
+    next
+end
+config firewall addrgrp
+    edit "Global_Blocked_Sites_01_ModifyThisOne"
+        set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+    next
+end
+
+===============================================
+>>>>>Nautica>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config firewall address
+    edit "BLOCK_FQDN-file.kiwi"
+        set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+        set type fqdn
+        set comment "SCTASK2033450"
+        set fqdn "file.kiwi"
+    next
+end
+config firewall addrgrp
+    edit "Global_Blocked_Sites_01_ModifyThisOne"
+        set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+    next
+end
+
+===============================================
+>>>>>Navigator>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config firewall address
+    edit "BLOCK_FQDN-file.kiwi"
+        set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+        set type fqdn
+        set comment "SCTASK2033450"
+        set fqdn "file.kiwi"
+    next
+end
+config firewall addrgrp
+    edit "Global_Blocked_Sites_01_ModifyThisOne"
+        set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+    next
+end
+
+===============================================
+>>>>>Navigator-Fortigate-FW01_New>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Pearl>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Prestige>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Pride>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Prima>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Regatta>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config firewall address
+    edit "BLOCK_FQDN-file.kiwi"
+        set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+        set type fqdn
+        set comment "SCTASK2033450"
+        set fqdn "file.kiwi"
+    next
+end
+config firewall addrgrp
+    edit "Global_Blocked_Sites_01_ModifyThisOne"
+        set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+    next
+end
+
+===============================================
+>>>>>Riviera>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config firewall address
+    edit "BLOCK_FQDN-file.kiwi"
+        set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+        set type fqdn
+        set comment "SCTASK2033450"
+        set fqdn "file.kiwi"
+    next
+end
+config firewall addrgrp
+    edit "Global_Blocked_Sites_01_ModifyThisOne"
+        set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+    next
+end
+
+===============================================
+>>>>>Sirena>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config firewall address
+    edit "BLOCK_FQDN-file.kiwi"
+        set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+        set type fqdn
+        set comment "SCTASK2033450"
+        set fqdn "file.kiwi"
+    next
+end
+config firewall addrgrp
+    edit "Global_Blocked_Sites_01_ModifyThisOne"
+        set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+    next
+end
+
+===============================================
+>>>>>Sky>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Spirit>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Splendor>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Star>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Sun>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Vista>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Viva>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
+>>>>>Voyager>>>>>>>>>>>>>>>>>>>>>>>>>>>
+=== Preview result ===
+config vdom
+    edit root
+        config firewall address
+            edit "BLOCK_FQDN-file.kiwi"
+                set uuid ad50a7b0-755f-51f1-0c47-0423fc722984
+                set type fqdn
+                set comment "SCTASK2033450"
+                set fqdn "file.kiwi"
+            next
+        end
+        config firewall addrgrp
+            edit "Global_Blocked_Sites_01_ModifyThisOne"
+                set member "BLOCK_FQDN-file.kiwi" "BLOCK_FQDN-eplus.global" "BLOCK_FQDN-flhsmv.fl-govcar.one" "BLOCK_FQDN-universalmarinemedical.com" "BLOCK_FQDN_ ncl1.com" "BLOCK_FQDN_aadcdn.avan-c.info" "BLOCK_FQDN_nextgenvcsm.com" "BLOCK_FQDN_nuvanayoga.com" "BLOCK_FQDN_sfrclak.com"
+            next
+        end
+    end
+
+===============================================
